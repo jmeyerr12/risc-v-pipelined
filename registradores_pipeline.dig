@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>48</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>IF/OF</string>
+        </entry>
+      </elementAttributes>
+      <pos x="980" y="280"/>
+    </visualElement>
+    <visualElement>
+      <elementName>IF_OF.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="3"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>.</string>
+        </entry>
+      </elementAttributes>
+      <pos x="1880" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>OF_EX.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>shapeType</string>
+          <shapeType>LAYOUT</shapeType>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>.</string>
+        </entry>
+      </elementAttributes>
+      <pos x="280" y="620"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>48</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>OF/EX</string>
+        </entry>
+      </elementAttributes>
+      <pos x="980" y="540"/>
+    </visualElement>
+    <visualElement>
+      <elementName>EX_MA.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="280" y="1080"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>48</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>EX/MA</string>
+        </entry>
+      </elementAttributes>
+      <pos x="980" y="880"/>
+    </visualElement>
+    <visualElement>
+      <elementName>MA_RW.dig</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="280" y="1360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Text</elementName>
+      <elementAttributes>
+        <entry>
+          <string>textFontSize</string>
+          <int>48</int>
+        </entry>
+        <entry>
+          <string>Description</string>
+          <string>MA/RW</string>
+        </entry>
+      </elementAttributes>
+      <pos x="980" y="1160"/>
+    </visualElement>
+  </visualElements>
+  <wires/>
+  <measurementOrdering/>
+</circuit>
