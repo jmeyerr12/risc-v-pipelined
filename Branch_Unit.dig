@@ -38,7 +38,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>flags-E-54bb86e1</string>
+          <string>flags(E)</string>
         </entry>
       </elementAttributes>
       <pos x="260" y="360"/>
@@ -58,7 +58,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>flags-gt-19528b5f</string>
+          <string>flags(GT)</string>
         </entry>
       </elementAttributes>
       <pos x="260" y="460"/>

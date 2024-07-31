@@ -8,7 +8,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>IF-0F-263986f9</string>
+          <string>IF/OF</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -22,7 +22,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>OF-EX-fa6b6bb9</string>
+          <string>OF/EX</string>
         </entry>
         <entry>
           <string>Bits</string>
@@ -36,7 +36,7 @@
       <elementAttributes>
         <entry>
           <string>Label</string>
-          <string>Data-Lock-Conflict-b6a1ac3c</string>
+          <string>DataLockConflict</string>
         </entry>
       </elementAttributes>
       <pos x="820" y="160"/>
