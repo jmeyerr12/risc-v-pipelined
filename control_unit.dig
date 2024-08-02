@@ -398,16 +398,6 @@
       <pos x="860" y="500"/>
     </visualElement>
     <visualElement>
-      <elementName>XOr</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="1160" y="400"/>
-    </visualElement>
-    <visualElement>
       <elementName>Out</elementName>
       <elementAttributes>
         <entry>
@@ -478,16 +468,6 @@
         </entry>
       </elementAttributes>
       <pos x="900" y="880"/>
-    </visualElement>
-    <visualElement>
-      <elementName>XOr</elementName>
-      <elementAttributes>
-        <entry>
-          <string>wideShape</string>
-          <boolean>true</boolean>
-        </entry>
-      </elementAttributes>
-      <pos x="1160" y="840"/>
     </visualElement>
     <visualElement>
       <elementName>Not</elementName>
@@ -1216,6 +1196,26 @@
         </entry>
       </elementAttributes>
       <pos x="1740" y="2140"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Or</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1160" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Or</elementName>
+      <elementAttributes>
+        <entry>
+          <string>wideShape</string>
+          <boolean>true</boolean>
+        </entry>
+      </elementAttributes>
+      <pos x="1160" y="840"/>
     </visualElement>
   </visualElements>
   <wires>
