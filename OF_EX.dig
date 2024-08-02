@@ -460,7 +460,7 @@
         </entry>
         <entry>
           <string>Label</string>
-          <string>alu_out</string>
+          <string>aluSignals_out</string>
         </entry>
         <entry>
           <string>Bits</string>
